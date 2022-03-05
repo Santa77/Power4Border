@@ -1,5 +1,7 @@
 # Power4Border - Nabíjačkáreň
 
+#StandWithUkraine
+
 Stručný návod na stavbu modulárnej prenosnej nabíjacej stanice pre mobilné telefóny a tablety.
 
 ![Pohľad z predu](images/Image1.png)
@@ -14,6 +16,10 @@ Nabíjačkáreň sa skladá z modulov obsahujúcich 8 samostatne uzamykateľnýc
  - hĺbka 200 mm
 
 Boxy je následne možné stohovať na seba, prípadne vedľa seba, podľa potreby.
+
+![Changing HUB USB 3.0](images/ChargingHUB16.jfif)
+![Menič napätia](images/MenicNapatia.jfif)
+
 
 ## BOM - zoznam materiálu na výrobu
 

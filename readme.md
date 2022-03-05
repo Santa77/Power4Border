@@ -21,6 +21,7 @@ Boxy je následne možné stohovať na seba, prípadne vedľa seba, podľa potre
 ## BOM - zoznam materiálu na výrobu
 
  - OSB doska, MDF doska, Bukas... hrúbka 18mm
+ - Alternatíva, ak sa Vám niekdeváľa zbytočná [vchodová poštová schránka](images/134083535.jpg)
  - [Zámky](https://www.demos-trade.sk/strong-zasuvkovy-zamok-plechovy/)
  - USB nabíjacie káble, [ideálne vetvené, USB-C, microUSB, Lightning](https://www.alza.sk/connect-it-wirez-3-v-1-12-m-cierny-d6221917.htm)
  - USB 3.0 Charging HUB, [napríklad 16 portový pre dva moduly](https://www.alza.sk/i-tec-usb-3-0-charging-hub-16port-power-adapter-90-w-d5619969.htm)

@@ -4,7 +4,7 @@
 
 Stručný návod na stavbu modulárnej prenosnej nabíjacej stanice pre mobilné telefóny a tablety.
 
-<img src="images/Image1.png" width="33%"> <img src="images/Image2.png" width="33%"> <img src="images/Image3.png" width="33%">
+<img src="images/Image1.png" width="31%"> <img src="images/Image2.png" width="31%"> <img src="images/Image3.png" width="31%">
 
 
 ## Základný popis
@@ -16,9 +16,7 @@ Nabíjačkáreň sa skladá z modulov obsahujúcich 8 samostatne uzamykateľnýc
 
 Boxy je následne možné stohovať na seba, prípadne vedľa seba, podľa potreby.
 
-![Changing HUB USB 3.0](images/ChargingHUB16.jfif =250x)
-![Menič napätia](images/MenicNapatia.jfif =250x)
-
+<img src="images/ChargingHUB16.jfif" width="45%"> <img src="images/MenicNapatia.jfif" width="45%">
 
 ## BOM - zoznam materiálu na výrobu
 

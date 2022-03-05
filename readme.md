@@ -4,10 +4,10 @@
 
 Stručný návod na stavbu modulárnej prenosnej nabíjacej stanice pre mobilné telefóny a tablety.
 
-<img src="images/Image1.png" width="45%">
+<img src="images/Image1.png" width="33%">
+<img src="images/Image2.png" width="33%">
+<img src="images/Image3.png" width="33%">
 
-![Pohľad zo zadu 1](images/Image2.png =250x)
-![Pohľad zo zadu 2](images/Image3.png =250x)
 
 ## Základný popis
 Nabíjačkáreň sa skladá z modulov obsahujúcich 8 samostatne uzamykateľných boxov. Vnútorný rozmer jedného boxu je:

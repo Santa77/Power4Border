@@ -4,9 +4,7 @@
 
 Stručný návod na stavbu modulárnej prenosnej nabíjacej stanice pre mobilné telefóny a tablety.
 
-<img src="images/Image1.png" width="33%">
-<img src="images/Image2.png" width="33%">
-<img src="images/Image3.png" width="33%">
+<img src="images/Image1.png" width="33%"> <img src="images/Image2.png" width="33%"> <img src="images/Image3.png" width="33%">
 
 
 ## Základný popis
